@@ -160,3 +160,6 @@ Create a feature image for a blog post based on the following description:
 - Elements: Include people working together, a graph showing growth, and a laptop with social media icons.
 - Color: Azure blue and white.
 ```
+
+> [!IMPORTANT]
+> This prompt can only be used with LLM tools that support image generation capabilities with DALL-E or similar models. These include Microsoft Copilot and ChatGPT among others.
