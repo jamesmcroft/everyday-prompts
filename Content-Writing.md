@@ -3,7 +3,7 @@
 This is a collection of prompts to help you with content creation tasks. These prompts are designed to aid in helping think creatively, and generate quality, insightful, and engaging content.
 
 > [!NOTE]
-> These prompts do not replace the need for thorough research and understanding of the topic you are writing about. They are designed to help you structure your existing thoughts and generate ideas.
+> These prompts do not replace the need for thorough research and understanding of the topic you are writing about. They are designed to help you structure your existing thoughts and generate ideas with guidance. Always ensure that the content you create is accurate, well-researched, and provides value to your audience. Update the generated content as needed to ensure it meets your requirements.
 
 ## Outlining content structure
 
@@ -38,3 +38,49 @@ The outline should include an introduction and conclusion, and focus on the foll
 
 The outline should clearly articulate the topic, and provide clear structure to ease reading for the target audience.
 ```
+
+## Writing a search engine optimized (SEO) title and meta description
+
+When we write articles for the web, we should always include a search engine optimized (SEO) title and meta description. These help your content become more discoverable when people search for related topics in search engines.
+
+Two prompts are provided. One is for helping to generate these before you have started writing, and the other is for generating them after you have written the content.
+
+**Prompt (Before writing):**
+
+```text
+Based on a [article|blog post|guide] for <TARGET AUDIENCE>, write an informative, search engine optimized title and description.
+
+The description should summarize the topics in a concise and engaging manner, less than or equal to 160 characters.
+
+It should represent the following high-level topics:
+
+- <List out any specific resources or topics to cover>
+```
+
+**Example (Before writing):**
+
+```text
+Based on a blog post for small business owners, write an informative, search engine optimized title and description.
+
+The description should summarize the topics in a concise and engaging manner, less than or equal to 160 characters.
+
+It should represent the following high-level topics:
+
+- Understanding your target audience
+- Content, social media, and email marketing strategies
+- Measuring marketing success
+```
+
+**Prompt (After writing):**
+
+```text
+Based on the following content, write an informative, search engine optimized title and description.
+
+The description should summarize the content in a concise and engaging manner, less than or equal to 160 characters.
+
+Content:
+- <Paste the content you have written>
+```
+
+> [!TIP]
+> If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant titles and descriptions based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
