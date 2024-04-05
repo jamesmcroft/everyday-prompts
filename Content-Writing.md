@@ -5,6 +5,15 @@ This is a collection of prompts to help you with content creation tasks. These p
 > [!NOTE]
 > These prompts do not replace the need for thorough research and understanding of the topic you are writing about. They are designed to help you structure your existing thoughts and generate ideas with guidance. Always ensure that the content you create is accurate, well-researched, and provides value to your audience. Update the generated content as needed to ensure it meets your requirements.
 
+## Table of Contents
+
+- [Outlining content structure](#outlining-content-structure)
+- [Writing a search engine optimized (SEO) title and meta description](#writing-a-search-engine-optimized-seo-title-and-meta-description)
+- [Identifying topic challenges for a target audience](#identifying-topic-challenges-for-a-target-audience)
+- [Identifying recommended solutions for topic challenges](#identifying-recommended-solutions-for-topic-challenges)
+- [Writing an engaging introduction](#writing-an-engaging-introduction)
+- [Creating a feature image for a blog post](#creating-a-feature-image-for-a-blog-post)
+
 ## Outlining content structure
 
 This prompt is designed to help provide a starting outline for an article, blog post, or guide, focusing on your specific target audience and topic.
