@@ -58,3 +58,28 @@ Content:
 
 > [!TIP]
 > If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant titles and descriptions based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
+
+## Providing recommendations to enhance readability
+
+Ensuring that your content is easy to read and understand is essential for engaging your audience. This prompt helps you review your content to identify areas where you can enhance readability, such as simplifying complex concepts, breaking down long sentences, and improving the flow of the content.
+
+**Prompt:**
+
+```text
+Based on the following content, provide a summary of any recommendations for enhancing the impact, clarity, and value of the [article|blog post|guide] to <TARGET AUDIENCE>. Your feedback should aim to elevate the quality of the content, making it a compelling resource for the <TARGET AUDIENCE> looking to innovate and excel in their respective domains.
+
+Content:
+<Paste the content you have written>
+```
+
+**Example:**
+
+```text
+Based on the following content, provide a summary of any recommendations for enhancing the impact, clarity, and value of the article to small business owners. Your feedback should aim to elevate the quality of the content, making it a compelling resource for small business owners looking to innovate and excel in their respective domains.
+
+Content:
+<Paste the content you have written>
+```
+
+> [!TIP]
+> If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant titles and descriptions based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
