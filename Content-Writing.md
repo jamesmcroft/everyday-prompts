@@ -79,7 +79,7 @@ Based on the following content, write an informative, search engine optimized ti
 The description should summarize the content in a concise and engaging manner, less than or equal to 160 characters.
 
 Content:
-- <Paste the content you have written>
+<Paste the content you have written>
 ```
 
 > [!TIP]
@@ -100,3 +100,19 @@ Describe 2-3 key challenges that <TARGET AUDIENCE> faces with "<TOPIC>" as detai
 ```text
 Describe 2-3 key challenges that small business owners face with "Effective Marketing Strategies" as detailed bullet points.
 ```
+
+## Identifying recommended solutions for topic challenges
+
+Once you have identified the challenges your target audience faces, it's important to provide solutions to these challenges in your content. This prompt helps you identify potential approaches to solving the challenges you have identified. This will help you provide actionable advice to your audience.
+
+**Prompt:**
+
+```text
+Based on the following content, provide 2-3 recommendations for <TARGET AUDIENCE> to act on as a detailed bullet list.
+
+Content:
+<Paste the content you have written>
+```
+
+> [!TIP]
+> If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant recommendations based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
