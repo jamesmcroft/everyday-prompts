@@ -84,3 +84,19 @@ Content:
 
 > [!TIP]
 > If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant titles and descriptions based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
+
+## Identifying topic challenges for a target audience
+
+When writing content, it's important to understand the challenges your target audience faces. This prompt helps to identify key challenges that your target audience faces with a specific topic your are covering in your content. This will help you understand the pain points of your audience and tailor your content to address them.
+
+**Prompt:**
+
+```text
+Describe 2-3 key challenges that <TARGET AUDIENCE> faces with "<TOPIC>" as detailed bullet points.
+```
+
+**Example:**
+
+```text
+Describe 2-3 key challenges that small business owners face with "Effective Marketing Strategies" as detailed bullet points.
+```
