@@ -8,6 +8,8 @@ This is a collection of prompts to help with the editing process of your content
 ## Table of Contents
 
 - [Reviewing for English language proficiency](#reviewing-for-english-language-proficiency)
+- [Reviewing for topic accuracy and relevance](#reviewing-for-topic-accuracy-and-relevance)
+- [Providing recommendations to enhance readability](#providing-recommendations-to-enhance-readability)
 
 ## Reviewing for English language proficiency
 
