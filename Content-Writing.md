@@ -14,6 +14,7 @@ This is a collection of prompts to help you with content creation tasks. These p
 - [Writing an engaging introduction](#writing-an-engaging-introduction)
 - [Creating a feature image for a blog post](#creating-a-feature-image-for-a-blog-post)
 - [Contextualizing your research](#contextualizing-your-research)
+- [Writing a conclusion](#writing-a-conclusion)
 
 ## Outlining content structure
 
@@ -200,6 +201,31 @@ Content:
 
 ```text
 Based on the following content, write 1-2 paragraphs for a blog post titled "Effective Marketing Strategies for Small Businesses". Make a case to small business owners on how they should implement the given initiative. Make the subject easy to understand and act upon. Focus on actionable advice using words such as choose, use, and avoid. Keep it concise.
+
+Content:
+<Paste the content you have written>
+```
+
+> [!TIP]
+> If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant recommendations based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
+
+## Writing a conclusion
+
+The conclusion of your content is as important as the introduction. It should summarize the key points you have covered, provide a call to action, and leave the reader with a lasting impression. This prompt is designed to help you write a concise and engaging conclusion that ties together the key points of your content and leaves your audience with a clear takeaway.
+
+**Prompt:**
+
+```text
+Based on the following content, provide a short paragraph to conclude the [article|blog post|guide]. The conclusion should summarize the main points and provide a recommendation for future research.
+
+Content:
+<Paste the content you have written>
+```
+
+**Example:**
+
+```text
+Based on the following content, provide a short paragraph to conclude the blog post. The conclusion should summarize the main points and provide a recommendation for future research.
 
 Content:
 <Paste the content you have written>
