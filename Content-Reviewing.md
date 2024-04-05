@@ -36,7 +36,7 @@ Based on the following content, evaluate the topic accuracy of the content, veri
 
 - <List out any specific requirements to validate>
 
-Highlight any discrepancies or areas that require updates to align with recent developments.
+Highlight any discrepancies or areas that require updates to align with recent developments. The content should not only be informative but also inspire new ideas, offering deep, research-based guidance that supports <TARGET AUDIENCE> in "<TOPIC>".
 
 Content:
 <Paste the content you have written>
@@ -50,7 +50,7 @@ Based on the following content, evaluate the topic accuracy of the content, veri
 - The statistics on social media usage are up-to-date and sourced from reliable sources.
 - The marketing strategies mentioned are relevant to small businesses and reflect current trends in the industry.
 
-Highlight any discrepancies or areas that require updates to align with recent developments.
+Highlight any discrepancies or areas that require updates to align with recent developments. The content should not only be informative but also inspire new ideas, offering deep, research-based guidance that supports small business owners in "Effective Marketing Strategies for Small Businesses".
 
 Content:
 <Paste the content you have written>
