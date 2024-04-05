@@ -28,7 +28,7 @@ From the collection categories below:
 ## Recommended Tools
 
 - [**ChatGPT**](https://chat.openai.com/): ChatGPT is a versatile tool that can be used with all of the prompts in this collection. It has a larger context window than most other tools, making it ideal for working with long-form content. ChatGPT supports the generation of both text and images. Using ChatGPT+, you can also create your own GPTs for performing specific tasks using these prompts.
-- [**Microsoft Copilot**](https://copilot.microsoft.com/): Copilot is similar to ChatGPT, and includes a helpful sidebar integration in Microsoft Edge that can be used to interact with the current tab content as context for your prompts. The prompts are limited to 2,000 characters, however, Copilot provides a Notebook feature that can be used for larger context windows. Copilot supports the generation of text and images, and includes support for plugins. Copilot Pro provides additional features for creating your own Copilot GPTs similar to ChatGPT+.
+- [**Microsoft Copilot**](https://copilot.microsoft.com/): Copilot is similar to ChatGPT, and includes a helpful sidebar integration in Microsoft Edge that can be used to interact with the current tab content as context for your prompts. The prompts are limited to 2,000 characters, however, Copilot provides a Notebook feature that can be used for larger context windows. Copilot supports the generation of text and images, and includes support for plugins. Copilot Pro provides additional features for creating your own Copilot GPTs similar to ChatGPT+. Learn more about [Copilot in Microsoft Edge](https://learn.microsoft.com/en-us/copilot/edge).
 
 ## Tips
 
