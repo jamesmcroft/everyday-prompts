@@ -116,3 +116,23 @@ Content:
 
 > [!TIP]
 > If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant recommendations based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
+
+## Writing an engaging introduction
+
+The introduction of your content is crucial to capturing the attention of your audience. This prompt helps you generate an engaging introduction that sets the tone for the rest of your content. It should set the stage for the rest of the content, clearly articulating the purpose and value of the content to the reader.
+
+**Prompt:**
+
+```text
+Provide a 1-2 short [sentence|paragraph] introduction for a [article|blog post|guide] titled "<TITLE>".
+
+It should clearly articulate the challenges that <TARGET AUDIENCE> face and state how the [article|blog post|guide] addresses that problem for them.
+```
+
+**Example:**
+
+```text
+Provide a 1-2 short paragraph introduction for a blog post titled "Effective Marketing Strategies for Small Businesses".
+
+It should clearly articulate the challenges that small business owners face and state how the blog post addresses that problem for them.
+```
