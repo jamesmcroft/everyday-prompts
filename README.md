@@ -18,7 +18,9 @@ From the collection categories below:
 ### Categories
 
 - [Content Writing](Content-Writing.md)
-  - This category includes a collection of prompts for generating content ideas, writing new content, summarizing research, and editing to generate high-quality content.
+  - This category includes a collection of prompts for generating content ideas, writing new content, summarizing research to generate high-quality content.
+- [Content Reviewing](Content-Reviewing.md)
+  - This category includes a collection of prompts for reviewing and editing content, including proofreading, editing, and improving content quality.
 
 ## Tips
 
