@@ -136,3 +136,27 @@ Provide a 1-2 short paragraph introduction for a blog post titled "Effective Mar
 
 It should clearly articulate the challenges that small business owners face and state how the blog post addresses that problem for them.
 ```
+
+## Creating a feature image for a blog post
+
+Visual content is essential for engaging readers. The feature image should be visually appealing and relevant to the content you are writing.
+
+Instead of a prompt, this section provides a set of guidelines to help you craft a tailored prompt for your needs. An example is provided to illustrate how you can structure your request.
+
+**Guidelines:**
+
+- Describe what you want the image to convey (e.g., a concept, a metaphor, a visual representation of the content).
+- Specific the style of the image (e.g., abstract, realistic, minimalist).
+- Mention any specific elements that should be included in the image (e.g., icons, text, people).
+- Provide any color or composition preferences you have for the image.
+
+**Example:**
+
+```text
+Create a feature image for a blog post based on the following description:
+
+- Concept: A representation of effective marketing strategies for small businesses.
+- Style: Minimalistic with no text.
+- Elements: Include people working together, a graph showing growth, and a laptop with social media icons.
+- Color: Azure blue and white.
+```
