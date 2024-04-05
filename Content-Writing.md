@@ -13,6 +13,7 @@ This is a collection of prompts to help you with content creation tasks. These p
 - [Identifying recommended solutions for topic challenges](#identifying-recommended-solutions-for-topic-challenges)
 - [Writing an engaging introduction](#writing-an-engaging-introduction)
 - [Creating a feature image for a blog post](#creating-a-feature-image-for-a-blog-post)
+- [Contextualizing your research](#contextualizing-your-research)
 
 ## Outlining content structure
 
@@ -123,6 +124,15 @@ Content:
 <Paste the content you have written>
 ```
 
+**Example:**
+
+```text
+Based on the following content, provide 2-3 recommendations for small business owners to act on as a detailed bullet list.
+
+Content:
+<Paste the content you have written>
+```
+
 > [!TIP]
 > If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant recommendations based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
 
@@ -172,3 +182,28 @@ Create a feature image for a blog post based on the following description:
 
 > [!IMPORTANT]
 > This prompt can only be used with LLM tools that support image generation capabilities with DALL-E or similar models. These include Microsoft Copilot and ChatGPT among others.
+
+## Contextualizing your research
+
+When writing content, it's important to structure your research, references, draft article, or notes in a way that is relevant to your topic and easy to understand. This prompt helps you organize your thoughts in a structured manner, making it easier to write your content. It will help you identify the key points you want to cover, the order in which you want to cover them, and how you can best present that information to your target audience.
+
+**Prompt:**
+
+```text
+Based on the following content, write 1-2 paragraphs for a [article|blog post|guide] titled "<TITLE>" on "<TOPIC>". Make a case to <TARGET AUDIENCE> on how they should implement the given initiative. Make the subject easy to understand and act upon. Focus on actionable advice using words such as choose, use, and avoid. Keep it concise.
+
+Content:
+<Paste the content you have written>
+```
+
+**Example:**
+
+```text
+Based on the following content, write 1-2 paragraphs for a blog post titled "Effective Marketing Strategies for Small Businesses". Make a case to small business owners on how they should implement the given initiative. Make the subject easy to understand and act upon. Focus on actionable advice using words such as choose, use, and avoid. Keep it concise.
+
+Content:
+<Paste the content you have written>
+```
+
+> [!TIP]
+> If you are using Microsoft Copilot, you can use the "Using the current web page as context" feature to generate more relevant recommendations based on the content you have written. You can remove the "Based on the following content" part of the prompt and replace it with "Using the current web page, " followed by the rest of the prompt. You also do not need to paste the content in this case, and this section can be removed.
