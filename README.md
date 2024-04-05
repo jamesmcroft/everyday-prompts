@@ -18,6 +18,7 @@ From the collection categories below:
 ### Categories
 
 - [Content Writing](Content-Writing.md)
+  - This category includes a collection of prompts for generating content ideas, writing new content, summarizing research, and editing to generate high-quality content.
 
 ## Tips
 
