@@ -15,6 +15,9 @@ From the collection categories below:
 3. Where provided, replace any `[ ]` placeholders with the option provided, and any `< >` placeholders with your specific details.
 4. Use the prompt with your LLM tool with the context of your task.
 
+> [!TIP]
+> Experiment with the prompts provided. Modify them to suit your specific needs or combine multiple prompts to create a more detailed task.
+
 ### Categories
 
 - [Content Writing](Content-Writing.md)
