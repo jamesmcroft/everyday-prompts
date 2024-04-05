@@ -7,4 +7,17 @@ This is a collection of prompts to help with the editing process of your content
 
 ## Table of Contents
 
--
+- [Reviewing for English language proficiency](#reviewing-for-english-language-proficiency)
+
+## Reviewing for English language proficiency
+
+When reviewing content, it's important to ensure that the language used is clear, concise, and free of errors. This prompt helps you review your content for English language proficiency, including checking for proper spelling, grammar, punctuation, and sentence structure.
+
+**Prompt:**
+
+```text
+Based on the following content, provide structured feedback on the content, ensuring that it adheres to high standards of English language proficiency suitable for a global audience. Pay special attention to common pitfalls such as spelling, grammar, homophones, subject-verb agreement, and the use of jargon that should be explained or simplified for clarity.
+
+Content:
+<Paste the content you have written>
+```
