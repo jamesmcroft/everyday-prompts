@@ -10,6 +10,9 @@ This is a collection of prompts to help with querying over context, generating a
 
 To keep the model focused on a specific topic, providing clear instruction alongside the context is essential. This prompt helps you to generate answers to queries based purely on the context that is provided.
 
+> [!IMPORTANT]
+> The instruction in this prompt is designed to restrict the model from exploring answers outside of the provided context. For example, providing a car's manual as context, and asking the question _"What is a banana?"_ would yield the response _"The requested information is not available. Please try another query."_
+
 > [!TIP]
 > When using Copilot or ChatGPT, the context can be pasted in. In a RAG system integrating with a LLM, the context can be provided by a semantic search to a knowledge base.
 
