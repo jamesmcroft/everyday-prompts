@@ -4,6 +4,9 @@ This is a collection of prompts to help with generating content for social media
 
 ## Table of Contents
 
+- [Writing an engaging social media post](#writing-an-engaging-social-media-post)
+- [Creating a feature image for social media content](#creating-a-feature-image-for-social-media-content)
+
 ## Writing an engaging social media post
 
 When creating content for social media, it's important to capture your audience's attention and encourage interaction. This prompt helps you craft engaging social media posts that are concise, informative, and appealing.

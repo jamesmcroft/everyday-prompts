@@ -4,6 +4,8 @@ This is a collection of prompts to help with querying over context, generating a
 
 ## Table of Contents
 
+- [Answering based on provided context only](#answering-based-on-provided-context-only)
+
 ## Answering based on provided context only
 
 To keep the model focused on a specific topic, providing clear instruction alongside the context is essential. This prompt helps you to generate answers to queries based purely on the context that is provided.
