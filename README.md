@@ -21,11 +21,13 @@ From the collection categories below:
 ### Categories
 
 - [Content Writing](Content-Writing.md)
-  - This category includes a collection of prompts for generating content ideas, writing new content, summarizing research to generate high-quality content.
+  - Prompts for generating content ideas, writing new content, summarizing research to generate high-quality content.
 - [Content Reviewing](Content-Reviewing.md)
-  - This category includes a collection of prompts for reviewing and editing content, including proofreading, editing, and improving content quality.
+  - Prompts for reviewing and editing content, including proofreading, editing, and improving content quality.
 - [Social Media](Social-Media.md)
-  - This category includes a collection of prompts for generating social media content, writing engaging posts, and creating content for various social media platforms.
+  - Prompts for generating social media content, writing engaging posts, and creating content for various social media platforms.
+- [Q&A](QnA.md)
+  - Prompts for generating answers to queries based on provided context, useful for creating AI assistants or knowledge base systems.
 
 ## Recommended Tools
 
