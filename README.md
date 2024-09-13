@@ -24,6 +24,8 @@ From the collection categories below:
   - This category includes a collection of prompts for generating content ideas, writing new content, summarizing research to generate high-quality content.
 - [Content Reviewing](Content-Reviewing.md)
   - This category includes a collection of prompts for reviewing and editing content, including proofreading, editing, and improving content quality.
+- [Social Media](Social-Media.md)
+  - This category includes a collection of prompts for generating social media content, writing engaging posts, and creating content for various social media platforms.
 
 ## Recommended Tools
 
