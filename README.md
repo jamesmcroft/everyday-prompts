@@ -28,6 +28,8 @@ From the collection categories below:
   - Prompts for generating social media content, writing engaging posts, and creating content for various social media platforms.
 - [Q&A](QnA.md)
   - Prompts for generating answers to queries based on provided context, useful for creating AI assistants or knowledge base systems.
+- [Coding](Coding.md)
+  - Prompts for supporting the development of code, generating code snippets, and explaining programming concepts.
 
 ## Recommended Tools
 
