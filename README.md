@@ -37,6 +37,12 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 | [`Article Writing`](prompts/content/article-writing/README.md) | Outlining, SEO metadata, feature images, conclusions          |
 | [`Reviewing`](prompts/content/reviewing/README.md)             | Language quality checks, topic accuracy, readability feedback |
 
+### Ideation
+
+| Category                                                    | Highlights                                               |
+| ----------------------------------------------------------- | -------------------------------------------------------- |
+| [`Brainstorming`](prompts/ideation/brainstorming/README.md) | Idea generation, hypothesis framing, and experimentation |
+
 ### Social Media
 
 | Category                                                    | Highlights                                    |
