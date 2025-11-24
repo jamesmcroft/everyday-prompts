@@ -15,7 +15,7 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 | Content - Writing      | `prompts/content/`                | Outlining, SEO metadata, feature images, conclusions          |
 | Content - Reviewing    | `prompts/content/reviewing/`      | Language quality checks, topic accuracy, readability feedback |
 | Social Media           | `prompts/social/`                 | Conversation-starting posts and image prompts                 |
-| Coding                 | `prompts/coding/`                 | Release-note system prompt ready for changelog inputs         |
+| Coding                 | `prompts/coding/`                 | Release notes plus GitHub bug-report templates                |
 | Knowledge Retrieval    | `prompts/knowledge/`              | Context-grounded answering for RAG setups                     |
 | Business Communication | `prompts/business/communication/` | Email drafting, stakeholder messaging helpers                 |
 | Career Development     | `prompts/career/development/`     | Performance reviews, growth plans, and professional coaching  |
