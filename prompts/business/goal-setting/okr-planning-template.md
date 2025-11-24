@@ -56,7 +56,7 @@ Create OKRs using this structure:
 Guidelines:
 - Group related focus areas together so each objective feels meaningful and not redundant.
 - When a focus area already looks like a key result, promote it into the right section and enrich it with metrics or milestones.
-- Suggest success criteria even if the user only supplied directionally (e.g., "reduce X" -> specify a realistic target or range). If data is missing, state the placeholder metric so the user can fill it in.
+- Suggest success criteria even if the user only supplied direction (e.g., "reduce X" -> specify a realistic target or range). If data is missing, state the placeholder metric so the user can fill it in.
 - Incorporate collaboration or customer-facing elements when the context implies cross-functional work.
 - Keep wording crisp enough to paste into a planning doc without edits.
 
