@@ -7,6 +7,7 @@ description: Prompts that help you plan, draft, and polish long-form articles or
 
 Craft better long-form content with prompts that focus on structure, clarity, and reader value. Each entry below links to a standalone prompt file you can copy straight into ChatGPT, Copilot, or similar tools.
 
+- [Agentic Editorial Blueprint](comprehensive-agent-outline.md) - single instruction for reasoning models to generate SEO metadata, audience insights, and structured sections at once.
 - [Outlining Content Structure](outlining-content-structure.md) - build an outline that includes introductions, sections, and conclusions aligned to your audience.
 - [SEO Title & Meta Description](seo-title-meta-description.md) - generate metadata before or after drafting to improve organic discoverability.
 - [Audience Topic Challenges](topic-challenges.md) - capture the top pain points you need to address for a specific topic.
