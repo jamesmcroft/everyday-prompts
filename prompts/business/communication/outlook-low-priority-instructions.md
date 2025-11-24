@@ -24,8 +24,7 @@ Pair this template with Outlook’s priority feature to push FYI-only or low-imp
 - Messages related to company-wide announcements (e.g., "All Hands" meetings)
 - Newsletters or marketing blasts (internal "news you can use", updates, etc.)
 - Automated digests (daily build summaries, reminders, etc.)
-- Messages where I'm CC'd or FYI-only threads
-- Messages where I'm only copied, not directly addressed
+- Messages where I'm CC'd, only copied (not directly addressed), or part of FYI-only threads
 - "Just keeping you in the loop" messages that don't require action from me
 - Recurring status updates with no new deliverables or decisions required
 - "For your reference" docs or whitepapers with no deadlines
