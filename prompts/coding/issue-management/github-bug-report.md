@@ -27,7 +27,7 @@ Use the following issue template:
 
 - Title: "[Bug]: ..."
 - Steps to reproduce: "Describe accurately how we can reproduce/verify the bug"
-- Expected behavior: "A clear and concise description of what you expected to happened"
+- Expected behavior: "A clear and concise description of what you expected to happen"
 - Actual behavior: "A clear and concise description of what actually happened"
 ```
 
