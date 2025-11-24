@@ -10,6 +10,11 @@ inputs:
   - Product or initiative description
   - Goal or desired outcome
   - Relevant customer data or insights
+tags:
+  - product-discovery
+  - experiment-design
+  - hypothesis
+  - customer-insights
 ---
 
 # Research Hypothesis Generator

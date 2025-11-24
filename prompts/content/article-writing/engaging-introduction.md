@@ -10,6 +10,11 @@ inputs:
   - Content format and title
   - Target audience
   - Core challenge being solved
+tags:
+  - content-writing
+  - introductions
+  - hooks
+  - audience-pain-points
 ---
 
 # Engaging Introduction

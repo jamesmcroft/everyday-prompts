@@ -10,6 +10,11 @@ inputs:
   - Draft content or summary notes
   - Content format
   - Desired follow-up action or future focus
+tags:
+  - content-writing
+  - conclusions
+  - wrap-up
+  - calls-to-action
 ---
 
 # Summarize & Conclude

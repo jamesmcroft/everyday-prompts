@@ -9,6 +9,11 @@ inputs:
   - Role or function
   - Examples of mailing lists, notifications, or content that rarely need fast action
   - Phrases that signal FYI-only or no-deadline work
+tags:
+  - outlook
+  - copilot
+  - email-triage
+  - productivity
 ---
 
 # Outlook Copilot Low-Priority Instructions

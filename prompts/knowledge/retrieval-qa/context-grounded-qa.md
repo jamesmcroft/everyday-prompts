@@ -10,6 +10,11 @@ inputs:
   - Focus area or domain
   - Context extract (documents, notes, search results)
   - Question to answer
+tags:
+  - rag
+  - knowledge-base
+  - qa
+  - hallucination-guardrails
 ---
 
 # Context-Grounded Q&A

@@ -10,6 +10,11 @@ inputs:
   - Recipient name and relationship
   - Achievements, strengths, or examples to highlight
   - Optional tone or emphasis
+tags:
+  - linkedin
+  - recommendations
+  - professional-branding
+  - social-proof
 ---
 
 # LinkedIn Recommendation Writer

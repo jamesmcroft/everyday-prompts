@@ -11,6 +11,11 @@ inputs:
   - Optional background context, research, or requirements
   - Intended audience or recipients
   - Desired tone, format, or section count (if applicable)
+tags:
+  - report-planning
+  - outlines
+  - briefing
+  - agentic-workflows
 ---
 
 # Report Planning Agent

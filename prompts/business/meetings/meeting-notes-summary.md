@@ -10,6 +10,11 @@ inputs:
   - Participant names
   - Transcript or summary of the discussion
   - Any known goals or action items
+tags:
+  - meeting-notes
+  - transcript-summary
+  - action-items
+  - business-ops
 ---
 
 # Meeting Notes Summary Generator

@@ -10,6 +10,11 @@ inputs:
   - Examples of high-priority senders
   - Types of incidents, deadlines, or keywords that require fast action
   - Signals across Teams, monitoring, or attachments that indicate urgency
+tags:
+  - outlook
+  - copilot
+  - inbox-prioritization
+  - urgency-signals
 ---
 
 # Outlook Copilot Priority Instructions

@@ -9,6 +9,11 @@ llm_tools:
 inputs:
   - Target audience
   - Supporting content or draft paragraphs
+tags:
+  - recommendations
+  - action-plans
+  - content-enhancement
+  - audience-guidance
 ---
 
 # Actionable Recommendations

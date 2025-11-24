@@ -9,6 +9,11 @@ inputs:
   - Recipient names or groups
   - Key update or request details
   - Technical facts or next steps to highlight
+tags:
+  - outlook
+  - copilot
+  - email-drafting
+  - tone-guidelines
 ---
 
 # Outlook Copilot Draft Instructions

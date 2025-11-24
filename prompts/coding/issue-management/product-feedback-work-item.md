@@ -12,6 +12,11 @@ inputs:
   - Desired change or remediation steps
   - Business/customer impact details
   - Known workarounds or mitigation ideas
+tags:
+  - product-feedback
+  - issue-tracking
+  - customer-voice
+  - engineering-intake
 ---
 
 # Product Feedback Work Item

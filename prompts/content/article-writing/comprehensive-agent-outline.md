@@ -12,6 +12,11 @@ inputs:
   - Topic
   - Number of sections
   - Specific subtopics or resources to cover
+tags:
+  - editorial-planning
+  - seo
+  - content-blueprint
+  - agentic-workflows
 ---
 
 # Agentic Editorial Blueprint

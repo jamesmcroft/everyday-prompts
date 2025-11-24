@@ -11,6 +11,11 @@ inputs:
   - Target audience
   - Number of sections to include
   - Key talking points or resources
+tags:
+  - content-outlining
+  - structure
+  - planning
+  - audience-tailoring
 ---
 
 # Outlining Content Structure

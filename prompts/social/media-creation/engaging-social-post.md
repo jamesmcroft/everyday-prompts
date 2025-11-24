@@ -10,6 +10,11 @@ inputs:
   - Platform (LinkedIn, X, etc.)
   - Topic focus
   - Personal insights or stance
+tags:
+  - social-media
+  - thought-leadership
+  - engagement
+  - copywriting
 ---
 
 # Engaging Social Post

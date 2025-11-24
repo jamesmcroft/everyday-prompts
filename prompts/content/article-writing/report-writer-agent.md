@@ -10,6 +10,11 @@ inputs:
   - Current report draft with table of contents and written sections
   - Findings from an iterative research process, including reference sources
   - Supporting context, formatting instructions, and other relevant information
+tags:
+  - report-writing
+  - agentic-workflows
+  - research-synthesis
+  - citations
 ---
 
 # Report Writer Agent

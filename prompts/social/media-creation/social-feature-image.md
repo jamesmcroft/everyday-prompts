@@ -10,6 +10,11 @@ inputs:
   - Platform and topic
   - Desired image components
   - Formatting instructions for the AI image prompt
+tags:
+  - social-media
+  - image-generation
+  - visual-design
+  - prompt-engineering
 ---
 
 # Social Feature Image Prompt

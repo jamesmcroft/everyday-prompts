@@ -10,6 +10,18 @@ A library of copy-ready prompts for ChatGPT, Copilot, and similar tools. Every p
 
 All prompts live under [`prompts/`](prompts/README.md). The folder categories are intentionally opinionated to keep things organized:
 
+### Agentic Workflows
+
+Agent-based prompts and workflows are becoming a standard for leveraging AI. Here are specific agent prompts you can leverage:
+
+| Prompt                                                                                                | Workflow highlight                                                              |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [`Research Orchestrator Workflow`](prompts/knowledge/research-orchestration/research-orchestrator.md) | Run iterative research loops with observations, gap analysis, and agent tasking |
+| [`Report Planning Agent`](prompts/content/article-writing/report-planning-agent.md)                   | Convert report briefs into contextual summaries and section owners              |
+| [`Report Writer Agent`](prompts/content/article-writing/report-writer-agent.md)                       | Turn planning outputs plus findings into a fully drafted report                 |
+| [`Agentic Editorial Blueprint`](prompts/content/article-writing/comprehensive-agent-outline.md)       | Single-pass editorial blueprint with title, metadata, outline, and CTA          |
+| [`Spec-Driven Development Generator`](prompts/coding/coding-agents/spec-driven-work-item.md)          | Produce structured specs that autonomous coding agents can execute              |
+
 ### Coding
 
 | Category                                                            | Highlights                                   |
@@ -66,8 +78,8 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 
 ### Evaluation
 
-| Category                                                       | Highlights                                                |
-| -------------------------------------------------------------- | --------------------------------------------------------- |
+| Category                                                            | Highlights                                                |
+| ------------------------------------------------------------------- | --------------------------------------------------------- |
 | [`Response Quality`](prompts/evaluation/response-quality/README.md) | Relevancy and accuracy evaluators for AI-driven responses |
 
 ## How to Use

@@ -9,6 +9,11 @@ llm_tools:
 inputs:
   - Draft content
   - Audience definition
+tags:
+  - readability
+  - editing
+  - content-strategy
+  - audience-targeting
 ---
 
 # Readability Recommendations

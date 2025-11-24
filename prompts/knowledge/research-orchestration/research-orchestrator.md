@@ -14,6 +14,11 @@ inputs:
   - Formatting and output requirements
   - Available agent roster plus tools
   - Iteration metadata (index, time spent, limits)
+tags:
+  - research-orchestration
+  - agentic-workflows
+  - iterative-research
+  - tool-calling
 ---
 
 # Research Orchestrator Workflow

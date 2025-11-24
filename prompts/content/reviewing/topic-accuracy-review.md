@@ -10,6 +10,11 @@ inputs:
   - Draft content
   - Target audience or topic statement
   - Checklist of requirements to verify
+tags:
+  - content-review
+  - fact-checking
+  - editorial-quality
+  - compliance
 ---
 
 # Topic Accuracy Review
