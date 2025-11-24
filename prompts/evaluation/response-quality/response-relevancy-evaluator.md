@@ -22,15 +22,15 @@ Use this evaluator prompt to quickly judge if a generated answer actually addres
 ```text
 We have been working on the following query:
 
-{query}
+<QUERY>
 
 We provided the following context:
 
-{context}
+<CONTEXT>
 
 And we have received the following response:
 
-{response}
+<RESPONSE>
 
 To ensure the response provided is relevant to the query, please answer the following question, including your reasoning:
 
