@@ -1,7 +1,7 @@
 # AGENTS.md - Everyday Prompts (Agent Guide)
 
 > **Purpose**
-> This file is the single source of truth for how coding agents should read, modify, generate, and review code in this repository.
+> This file is the single source of truth for how coding agents should read, modify, generate, and review prompts in this repository.
 
 ---
 
