@@ -15,7 +15,7 @@ inputs:
 
 Keep Copilot-generated emails consistent by setting these instructions inside Outlook: **Settings → Copilot → Draft instructions**. Once saved, every draft Copilot produces will follow the tone, structure, and clarity rules below—no copy/paste required per message.
 
-## Draft Instruction
+## Prompt
 
 ```text
 - Use a friendly-yet-professional greeting (e.g., opening with Hi <recipient> or Hello <recipient> if more formal)
