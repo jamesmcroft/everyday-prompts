@@ -1,0 +1,10 @@
+---
+title: Career Development
+description: Prompts that guide career growth through mentoring, performance reviews, and professional development planning.
+---
+
+# Career Development
+
+These prompts guide coaching conversations, resume refreshes, interview prep, or skills mapping.
+
+- [Performance Review Impact Assessment](performance-review-impact-assessment.md) - turn raw accomplishments, setbacks, and goals into a polished review submission template.

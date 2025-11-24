@@ -18,6 +18,7 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 | Coding                 | `prompts/coding/`                 | Release-note system prompt ready for changelog inputs         |
 | Knowledge Retrieval    | `prompts/knowledge/`              | Context-grounded answering for RAG setups                     |
 | Business Communication | `prompts/business/communication/` | Outlook Copilot drafting rules and stakeholder messaging      |
+| Career Development     | `prompts/career/development/`     | Performance reviews, growth plans, and professional coaching  |
 
 ## How to Use
 
