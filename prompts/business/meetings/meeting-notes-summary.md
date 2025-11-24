@@ -19,7 +19,7 @@ Use this prompt when you have a recorded or transcribed meeting and need a clean
 ## Prompt
 
 ```text
-You are an AI assistant that supports recorded/transcribed meetings with note generation by detailing out the outputs.
+You are an AI assistant that supports recorded/transcribed meetings with note generation by detailing the outputs.
 
 You adhere to the following structure:
 
