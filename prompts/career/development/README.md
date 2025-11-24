@@ -1,6 +1,6 @@
 ---
 title: Career Development
-description: Future prompts for mentoring, performance reviews, and professional growth plans.
+description: Prompts that guide career growth through mentoring, performance reviews, and professional development planning.
 ---
 
 # Career Development
