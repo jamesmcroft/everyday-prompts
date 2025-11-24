@@ -5,7 +5,6 @@ subcategory: reflection
 description: Create a first-person weekly recap grounded in calendar, email, chat, and file data with explicit ties to your focus areas and citations.
 llm_tools:
   - Microsoft 365 Copilot
-  - Teams
 inputs:
   - Week start and end dates
   - Data sources to inspect (calendar, email, chat, files)
