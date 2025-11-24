@@ -10,15 +10,44 @@ A library of copy-ready prompts for ChatGPT, Copilot, and similar tools. Every p
 
 All prompts live under [`prompts/`](prompts/README.md). The folder categories are intentionally opinionated to keep things organized:
 
-| Domain                 | Folder                            | Highlights                                                    |
-| ---------------------- | --------------------------------- | ------------------------------------------------------------- |
-| Content - Writing      | `prompts/content/`                | Outlining, SEO metadata, feature images, conclusions          |
-| Content - Reviewing    | `prompts/content/reviewing/`      | Language quality checks, topic accuracy, readability feedback |
-| Social Media           | `prompts/social/`                 | Conversation-starting posts and image prompts                 |
-| Coding                 | `prompts/coding/`                 | Release notes plus GitHub bug-report templates                |
-| Knowledge Retrieval    | `prompts/knowledge/`              | Context-grounded answering for RAG setups                     |
-| Business Communication | `prompts/business/communication/` | Email drafting, stakeholder messaging helpers                 |
-| Career Development     | `prompts/career/development/`     | Performance reviews, growth plans, and professional coaching  |
+### Coding
+
+| Category                                                            | Highlights                                   |
+| ------------------------------------------------------------------- | -------------------------------------------- |
+| [`Release Management`](prompts/coding/release-management/README.md) | Release notes and changelog prep             |
+| [`Issue Management`](prompts/coding/issue-management/README.md)     | GitHub bug reports and issue triage          |
+| [`Coding Agents`](prompts/coding/coding-agents/README.md)           | Spec-driven work items for autonomous agents |
+
+### Business
+
+| Category                                                    | Highlights                                    |
+| ----------------------------------------------------------- | --------------------------------------------- |
+| [`Communication`](prompts/business/communication/README.md) | Email drafting, stakeholder messaging helpers |
+
+### Career
+
+| Category                                              | Highlights                                               |
+| ----------------------------------------------------- | -------------------------------------------------------- |
+| [`Development`](prompts/career/development/README.md) | Performance reviews, growth plans, professional coaching |
+
+### Content Writing
+
+| Category                                                       | Highlights                                                    |
+| -------------------------------------------------------------- | ------------------------------------------------------------- |
+| [`Article Writing`](prompts/content/article-writing/README.md) | Outlining, SEO metadata, feature images, conclusions          |
+| [`Reviewing`](prompts/content/reviewing/README.md)             | Language quality checks, topic accuracy, readability feedback |
+
+### Social Media
+
+| Category                                                    | Highlights                                    |
+| ----------------------------------------------------------- | --------------------------------------------- |
+| [`Media Creation`](prompts/social/media-creation/README.md) | Conversation-starting posts and image prompts |
+
+### Knowledge
+
+| Category                                                      | Highlights                                |
+| ------------------------------------------------------------- | ----------------------------------------- |
+| [`Retrieval & Q&A`](prompts/knowledge/retrieval-qa/README.md) | Context-grounded answering for RAG setups |
 
 ## How to Use
 
