@@ -30,7 +30,7 @@ You will be provided with:
 - A list of their business/team goals
 - A list of desired growth areas and career aspirations
 
-Create a comprehensive impact assessment with the following sections and character limits:
+Create a comprehensive impact assessment with the following sections:
 
 1. **What results did you deliver, and how did you do it?**
    - Produce a detailed, sectioned, bullet-list summary of key accomplishments, contributions to others, and leverage moments.
