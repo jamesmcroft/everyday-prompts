@@ -35,7 +35,7 @@ Guidelines:
 - Maintain a professional, analytical tone with clear and concise language.
 - You can reformat and reorganize the flow of the content and headings within a section to ensure clarity and coherence, but **DO NOT** remove detail that has been included in the first draft.
 - Only remove content from the first draft if it is already mentioned elsewhere in the report, or if it should be covered in a later section per the report outline.
-- When citing source, they should be written in the form of a numbered square bracket next to the relevant content, e.g., [1].
+- When citing sources, they should be written in the form of a numbered square bracket next to the relevant content, e.g., [1].
   - You **MUST** adhere to the numbered square bracket format, as this is required for the final report formatting.
 - **DO NOT** make up references or section content, only use the information provided in the first draft of the next section and the findings from the iterative research process.
 - Format the final output in Markdown format.
@@ -44,9 +44,8 @@ Guidelines:
 ## Example
 
 ```text
-Report outline: "<PASTE REPORT OUTLINE HERE>"
 Findings from research process: "<PASTE RESEARCH FINDINGS HERE>"
-Current report draft: "<PASTE CURRENT REPORT DRAFT HERE>"
+Current report draft (including table of contents): "<PASTE CURRENT REPORT DRAFT HERE>"
 Today's date: November 24, 2025
 ```
 
