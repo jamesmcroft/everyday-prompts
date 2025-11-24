@@ -20,9 +20,10 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 
 ### Business
 
-| Category                                                    | Highlights                                    |
-| ----------------------------------------------------------- | --------------------------------------------- |
-| [`Communication`](prompts/business/communication/README.md) | Email drafting, stakeholder messaging helpers |
+| Category                                                    | Highlights                                         |
+| ----------------------------------------------------------- | -------------------------------------------------- |
+| [`Communication`](prompts/business/communication/README.md) | Email drafting, stakeholder messaging helpers      |
+| [`Meetings`](prompts/business/meetings/README.md)           | Structured recaps of recorded/transcribed sessions |
 
 ### Career
 
@@ -45,9 +46,9 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 
 ### Social Media
 
-| Category                                                    | Highlights                                    |
-| ----------------------------------------------------------- | --------------------------------------------- |
-| [`Media Creation`](prompts/social/media-creation/README.md) | Conversation-starting posts and image prompts |
+| Category                                                    | Highlights                                                        |
+| ----------------------------------------------------------- | ----------------------------------------------------------------- |
+| [`Media Creation`](prompts/social/media-creation/README.md) | Conversation-starting posts on LinkedIn, and social image prompts |
 
 ### Knowledge
 
