@@ -2,7 +2,7 @@
 title: Outlook Copilot Draft Instructions
 category: business
 subcategory: communication
-description: Custom drafting rules for Outlook Copilot so every email stays clear, polite, and action oriented.
+description: Custom drafting rules for Outlook Copilot so every email stays clear, polite, and action-oriented.
 llm_tools:
   - Microsoft Outlook Copilot
 inputs:
