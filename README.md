@@ -10,13 +10,14 @@ A library of copy-ready prompts for ChatGPT, Copilot, and similar tools. Every p
 
 All prompts live under [`prompts/`](prompts/README.md). The folder categories are intentionally opinionated to keep things organized:
 
-| Domain              | Folder                       | Highlights                                                    |
-| ------------------- | ---------------------------- | ------------------------------------------------------------- |
-| Content - Writing   | `prompts/content/`           | Outlining, SEO metadata, feature images, conclusions          |
-| Content - Reviewing | `prompts/content/reviewing/` | Language quality checks, topic accuracy, readability feedback |
-| Social Media        | `prompts/social/`            | Conversation-starting posts and image prompts                 |
-| Coding              | `prompts/coding/`            | Release-note system prompt ready for changelog inputs         |
-| Knowledge Retrieval | `prompts/knowledge/`         | Context-grounded answering for RAG setups                     |
+| Domain              | Folder                        | Highlights                                                    |
+| ------------------- | ----------------------------- | ------------------------------------------------------------- |
+| Content - Writing   | `prompts/content/`            | Outlining, SEO metadata, feature images, conclusions          |
+| Content - Reviewing | `prompts/content/reviewing/`  | Language quality checks, topic accuracy, readability feedback |
+| Social Media        | `prompts/social/`             | Conversation-starting posts and image prompts                 |
+| Coding              | `prompts/coding/`             | Release-note system prompt ready for changelog inputs         |
+| Knowledge Retrieval | `prompts/knowledge/`          | Context-grounded answering for RAG setups                     |
+| Career Development  | `prompts/career/development/` | Performance reviews, growth plans, and professional coaching  |
 
 ## How to Use
 
