@@ -24,6 +24,7 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 | ----------------------------------------------------------- | -------------------------------------------------- |
 | [`Communication`](prompts/business/communication/README.md) | Email drafting, stakeholder messaging helpers      |
 | [`Meetings`](prompts/business/meetings/README.md)           | Structured recaps of recorded/transcribed sessions |
+| [`Goal Setting`](prompts/business/goal-setting/README.md)   | Structured OKR drafting and target tracking        |
 
 ### Career
 
@@ -33,8 +34,8 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 
 ### Journaling
 
-| Category                                             | Highlights                                                          |
-| ---------------------------------------------------- | ------------------------------------------------------------------- |
+| Category                                                | Highlights                                                           |
+| ------------------------------------------------------- | -------------------------------------------------------------------- |
 | [`Reflection`](prompts/journaling/reflection/README.md) | Weekly and monthly impact journals for business and career alignment |
 
 ### Content Writing
