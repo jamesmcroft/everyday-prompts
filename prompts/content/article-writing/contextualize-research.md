@@ -11,6 +11,11 @@ inputs:
   - Topic focus
   - Target audience
   - Research excerpt or draft paragraph
+tags:
+  - research-synthesis
+  - persuasive-writing
+  - actionable-advice
+  - audience-targeting
 ---
 
 # Contextualize Research

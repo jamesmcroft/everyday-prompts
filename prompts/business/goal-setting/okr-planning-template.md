@@ -13,6 +13,11 @@ inputs:
   - Draft objectives, focus areas, or problem statements
   - Success measures, metrics, or targets
   - Dependencies, risks, and collaboration notes
+tags:
+  - okr-planning
+  - goal-setting
+  - strategy
+  - kpi-definition
 ---
 
 # OKR Planning Template

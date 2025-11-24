@@ -10,6 +10,11 @@ inputs:
   - Brief description of the issue
   - Detailed reproduction steps
   - Expected vs. actual behavior
+tags:
+  - bug-reporting
+  - github
+  - issue-template
+  - reproduction-steps
 ---
 
 # GitHub Bug Report

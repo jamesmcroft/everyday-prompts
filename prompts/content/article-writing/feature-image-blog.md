@@ -11,6 +11,11 @@ inputs:
   - Desired style or medium
   - Elements to include
   - Color or composition preferences
+tags:
+  - image-generation
+  - blog-visuals
+  - prompt-engineering
+  - design-brief
 ---
 
 # Blog Feature Image Prompt

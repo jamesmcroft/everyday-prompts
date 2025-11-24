@@ -9,6 +9,11 @@ llm_tools:
 inputs:
   - Draft content
   - Optional audience or style considerations
+tags:
+  - grammar-check
+  - language-quality
+  - editing
+  - global-audience
 ---
 
 # Language Proficiency Review

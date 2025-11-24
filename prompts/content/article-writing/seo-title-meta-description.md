@@ -10,6 +10,11 @@ inputs:
   - Target audience
   - Content format
   - High-level topics or content body
+tags:
+  - seo
+  - metadata
+  - titles
+  - search-optimization
 ---
 
 # SEO Title & Meta Description

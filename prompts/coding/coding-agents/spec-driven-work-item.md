@@ -10,6 +10,11 @@ llm_tools:
 inputs:
   - Feature or change description
   - Any known context or files to inspect
+tags:
+  - spec-generation
+  - coding-agents
+  - requirements
+  - work-items
 ---
 
 # Spec-Driven Development Generator

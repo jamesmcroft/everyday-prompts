@@ -15,6 +15,11 @@ inputs:
   - Key initiatives or accounts to spotlight
   - Citation format or reference style
   - Instructions for summarizing impact vs. effort
+tags:
+  - monthly-review
+  - copilot
+  - impact-tracking
+  - journal-rollup
 ---
 
 # Monthly Impact Journal

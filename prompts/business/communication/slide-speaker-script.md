@@ -13,6 +13,11 @@ inputs:
   - Key bullets, data points, or themes to cover
   - Desired tone or emphasis (technical, inspirational, action-oriented, etc.)
   - Optional call-to-action or next steps for the audience
+tags:
+  - presentations
+  - speaker-notes
+  - powerpoint
+  - storytelling
 ---
 
 # Slide Speaker Script

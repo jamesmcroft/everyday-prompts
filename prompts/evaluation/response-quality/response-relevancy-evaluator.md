@@ -11,6 +11,11 @@ inputs:
   - User query or request
   - Context supplied to the answering model (documents, notes, snippets)
   - Model response to evaluate
+tags:
+  - response-evaluation
+  - relevance-check
+  - rag-quality
+  - qa-review
 ---
 
 # Response Relevancy Evaluator

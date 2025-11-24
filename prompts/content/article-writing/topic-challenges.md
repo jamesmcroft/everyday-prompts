@@ -9,6 +9,11 @@ llm_tools:
 inputs:
   - Target audience
   - Topic or theme
+tags:
+  - audience-research
+  - pain-points
+  - content-planning
+  - market-insights
 ---
 
 # Audience Topic Challenges

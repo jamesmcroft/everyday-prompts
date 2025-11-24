@@ -8,6 +8,11 @@ llm_tools:
   - Microsoft Copilot
 inputs:
   - Source context (notes, article, outline, or headings)
+tags:
+  - content-ideation
+  - topic-expansion
+  - content-series
+  - follow-up-planning
 ---
 
 # Deep Dive Topic Generator

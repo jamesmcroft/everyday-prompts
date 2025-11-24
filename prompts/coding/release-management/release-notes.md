@@ -10,6 +10,11 @@ inputs:
   - Project name
   - Version numbers
   - Summary of changes or changelog snippet
+tags:
+  - release-notes
+  - devrel
+  - product-updates
+  - changelog
 ---
 
 # Release Notes Generator

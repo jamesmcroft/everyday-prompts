@@ -12,6 +12,11 @@ inputs:
   - Current initiatives or customers to spotlight
   - Required citation format or link structure
   - Important interactions that must be referenced
+tags:
+  - weekly-review
+  - copilot
+  - work-journal
+  - impact-tracking
 ---
 
 # Weekly Impact Journal

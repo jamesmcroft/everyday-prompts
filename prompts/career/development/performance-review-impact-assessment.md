@@ -12,6 +12,11 @@ inputs:
   - Summary of priorities and accomplishments
   - Organization goals for the next period
   - Desired growth areas
+tags:
+  - performance-review
+  - career-growth
+  - impact-summary
+  - goal-planning
 ---
 
 # Performance Review Impact Assessment
