@@ -4,43 +4,41 @@
 [![GitHub Stars][badge_repo_stars]][link_repo]
 [![Repo License][badge_license]][link_repo]
 
-A collection of prompts for LLM tools (ChatGPT, Microsoft Copilot, etc.) to help with general tasks, such as idea generation, writing, editing, and more.
+A library of copy-ready prompts for ChatGPT, Copilot, and similar tools. Every prompt lives in its own file, grouped into categorized folders so you can jump straight to what you need.
+
+## Find a Prompt
+
+All prompts live under [`prompts/`](prompts/README.md). The folder categories are intentionally opinionated to keep things organized:
+
+| Domain              | Folder                       | Highlights                                                    |
+| ------------------- | ---------------------------- | ------------------------------------------------------------- |
+| Content - Writing   | `prompts/content/`           | Outlining, SEO metadata, feature images, conclusions          |
+| Content - Reviewing | `prompts/content/reviewing/` | Language quality checks, topic accuracy, readability feedback |
+| Social Media        | `prompts/social/`            | Conversation-starting posts and image prompts                 |
+| Coding              | `prompts/coding/`            | Release-note system prompt ready for changelog inputs         |
+| Knowledge Retrieval | `prompts/knowledge/`         | Context-grounded answering for RAG setups                     |
 
 ## How to Use
 
-From the collection categories below:
-
-1. Choose a category.
-2. Select a prompt from the list.
-3. Where provided, replace any `[ ]` placeholders with the option provided, and any `< >` placeholders with your specific details.
-4. Use the prompt with your LLM tool with the context of your task.
+1. Browse to a category folder and open its `README.md` for a quick description of every prompt inside.
+2. Open the prompt file you need - each one includes metadata, when-to-use guidance, the exact prompt, and an example.
+3. Copy the prompt into your LLM tool and replace `[ ]` or `< >` placeholders with your information.
+4. Iterate! These prompts are meant to be tweaked and combined to match your workflow.
 
 > [!TIP]
-> Experiment with the prompts provided. Modify them to suit your specific needs or combine multiple prompts to create a more detailed task.
-
-### Categories
-
-- [Content Writing](Content-Writing.md)
-  - Prompts for generating content ideas, writing new content, summarizing research to generate high-quality content.
-- [Content Reviewing](Content-Reviewing.md)
-  - Prompts for reviewing and editing content, including proofreading, editing, and improving content quality.
-- [Social Media](Social-Media.md)
-  - Prompts for generating social media content, writing engaging posts, and creating content for various social media platforms.
-- [Q&A](QnA.md)
-  - Prompts for generating answers to queries based on provided context, useful for creating AI assistants or knowledge base systems.
-- [Coding](Coding.md)
-  - Prompts for supporting the development of code, generating code snippets, and explaining programming concepts.
+> Naming and metadata stay consistent across folders, so you can search for tags such as `subcategory: article-writing` in your editor to find related prompts fast.
 
 ## Recommended Tools
 
-- [**ChatGPT**](https://chat.openai.com/): ChatGPT is a versatile tool that can be used with all of the prompts in this collection. It has a larger context window than most other tools, making it ideal for working with long-form content. ChatGPT supports the generation of both text and images. Using ChatGPT+, you can also create your own GPTs for performing specific tasks using these prompts.
-- [**Microsoft Copilot**](https://copilot.microsoft.com/): Copilot is similar to ChatGPT, and includes a helpful sidebar integration in Microsoft Edge that can be used to interact with the current tab content as context for your prompts. The prompts are limited to 2,000 characters, however, Copilot provides a Notebook feature that can be used for larger context windows. Copilot supports the generation of text and images, and includes support for plugins. Copilot Pro provides additional features for creating your own Copilot GPTs similar to ChatGPT+. Learn more about [Copilot in Microsoft Edge](https://learn.microsoft.com/en-us/copilot/edge).
+- [**ChatGPT**](https://chat.openai.com/): Handles long-form prompts, supports text + image generation, and lets you package favorite prompts into custom GPTs.
+- [**Microsoft Copilot**](https://copilot.microsoft.com/): Great for contextual prompts via the Edge sidebar. Switch to the Notebook view for longer context windows or use Copilot Pro to build Copilot GPTs. Learn more about [Copilot in Microsoft Edge](https://learn.microsoft.com/en-us/copilot/edge).
+- [**M365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot): Integrates AI directly into Microsoft 365 apps like Word, Excel, and Outlook for context-aware assistance. Great for business workflows.
 
 ## Tips
 
 ### Microsoft Copilot
 
-- **Using the current web page as context**: If you're using Copilot in Edge, the Copilot sidebar can be used to take the current web page as context. This can help Copilot generate relevant responses to your task. If you are using a personal account, this can be toggled in the message box by changing the **Using relevant sources** options to **Using this page**. If you are using a work or school account, prefix your prompt with "Using the current web page, " followed by your prompt.
+- **Using the current web page as context**: In Edge's Copilot feature, @mention the tab you want to include as context so prompts like SEO metadata or contextual reviews automatically reference the page.
 
 ## Supporting
 
