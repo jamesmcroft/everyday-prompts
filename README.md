@@ -59,9 +59,10 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 
 ### Knowledge
 
-| Category                                                      | Highlights                                |
-| ------------------------------------------------------------- | ----------------------------------------- |
-| [`Retrieval & Q&A`](prompts/knowledge/retrieval-qa/README.md) | Context-grounded answering for RAG setups |
+| Category                                                                       | Highlights                                                                |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| [`Research Orchestration`](prompts/knowledge/research-orchestration/README.md) | Multi-agent research loops with observations, gap analysis, and synthesis |
+| [`Retrieval & Q&A`](prompts/knowledge/retrieval-qa/README.md)                  | Context-grounded answering for RAG setups                                 |
 
 ## How to Use
 
