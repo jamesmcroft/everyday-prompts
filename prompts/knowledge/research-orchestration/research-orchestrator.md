@@ -18,7 +18,7 @@ inputs:
 
 # Research Orchestrator Workflow
 
-Use this workflow when you need to build an agentic AI orchestrator to manage several knowledge specialist agents. The system prompt runs continuously as the "research orchestrator" while separate callable prompts handle observations, gap analysis, task routing, and the final synthesis handoff. Drop these blocks into an agent with tools that supports and parameterize each variable before calling.
+Use this workflow when you need to build an agentic AI orchestrator to manage several knowledge specialist agents. The system prompt runs continuously as the "research orchestrator" while separate callable prompts handle observations, gap analysis, task routing, and the final synthesis handoff. Drop these blocks into an agent with tools that support and parameterize each variable before calling.
 
 ## When to Use
 
@@ -98,7 +98,7 @@ Your task is to reflect on the research process so far and provide your latest o
 - Is there any information that is contradictory or conflicting?
 
 Guidelines:
-- Share you stream of consciousness on the above questions in a conversational manner, as if you were speaking your thoughts out loud.
+- Share your stream of consciousness on the above questions in a conversational manner, as if you were speaking your thoughts out loud.
 - Keep your response concise and informal.
 - Focus most of your thoughts on the most recent iteration, and how that influences this next iteration.
 - Our aim is to do very deep and thorough research, so bear this in mind when reflecting on the research process so far.
@@ -248,7 +248,7 @@ Your task is to:
 Guidelines:
 - The response should be in Markdown format.
 - The response should be as detailed as possible with the information provided, focusing on answering the user query.
-- Citations should written in the form of a numbered square bracket next to the relevant information, e.g., [1][2]. Follow the example reference format below for the final output.
+- Citations should be written in the form of a numbered square bracket next to the relevant information, e.g., [1][2]. Follow the example reference format below for the final output.
   - You **MUST** adhere to the numbered square bracket format, as this is required for finalizing the user query.
   - If a citation includes multiple sources, they should always be separate square brackets, e.g., [1][2].
   - References must only be valid URI links that exist in the data provided. Do not include references that are not present in the findings or make up reference URIs.
