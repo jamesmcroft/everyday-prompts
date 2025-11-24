@@ -38,3 +38,6 @@ Context:
 ```
 
 The model will return three net-new deep dive article titles plus one tailored drill-down topic per heading so you can keep expanding the series with intent.
+
+> [!TIP]
+> Use the generated deep dive topics to plan your next articles or series. This prompt works best when your context includes clear headings or a well-structured outline. For best results, paste detailed notes or a full draft to surface the most relevant follow-up ideas.
