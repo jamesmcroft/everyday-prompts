@@ -15,3 +15,4 @@ Craft better long-form content with prompts that focus on structure, clarity, an
 - [Blog Feature Image Prompt](feature-image-blog.md) - describe the hero graphic you need for AI image tools.
 - [Contextualize Research](contextualize-research.md) - transform raw notes into persuasive, easy-to-follow paragraphs.
 - [Summarize & Conclude](content-conclusion.md) - close with a tidy recap and suggested next step.
+- [Deep Dive Topic Generator](deep-dive-topics.md) - surface drill-down article ideas from existing drafts, research, or outlines.
