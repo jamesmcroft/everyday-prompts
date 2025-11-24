@@ -31,6 +31,12 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 | ----------------------------------------------------- | -------------------------------------------------------- |
 | [`Development`](prompts/career/development/README.md) | Performance reviews, growth plans, professional coaching |
 
+### Journaling
+
+| Category                                             | Highlights                                                          |
+| ---------------------------------------------------- | ------------------------------------------------------------------- |
+| [`Reflection`](prompts/journaling/reflection/README.md) | Weekly and monthly impact journals for business and career alignment |
+
 ### Content Writing
 
 | Category                                                       | Highlights                                                    |
