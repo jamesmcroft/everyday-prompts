@@ -64,6 +64,12 @@ All prompts live under [`prompts/`](prompts/README.md). The folder categories ar
 | [`Research Orchestration`](prompts/knowledge/research-orchestration/README.md) | Multi-agent research loops with observations, gap analysis, and synthesis |
 | [`Retrieval & Q&A`](prompts/knowledge/retrieval-qa/README.md)                  | Context-grounded answering for RAG setups                                 |
 
+### Evaluation
+
+| Category                                                       | Highlights                                                |
+| -------------------------------------------------------------- | --------------------------------------------------------- |
+| [`Response Quality`](prompts/evaluation/response-quality/README.md) | Relevancy and accuracy evaluators for AI-driven responses |
+
 ## How to Use
 
 1. Browse to a category folder and open its `README.md` for a quick description of every prompt inside.
