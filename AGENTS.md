@@ -18,7 +18,7 @@
 When adding a new prompt:
 
 - **Verify Uniqueness**: Ensure a prompt does not already exist for the intended purpose.
-- **Choose Correct Folder**: Place the new prompt in the appropriate domain/sub-domain folder.
+- **Choose Correct Folder**: Place the new prompt in the appropriate domain/sub-domain folder. You can find these in the `prompts/` directory.
 - **Use Frontmatter**: Include all required metadata in the frontmatter.
 - **Structure the Content**: Follow the established format: context, prompt, example, and tips.
 - **Link in README**: Update the nearest `README.md` to include a link and description of the new prompt.
