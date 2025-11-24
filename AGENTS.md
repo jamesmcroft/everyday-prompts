@@ -22,6 +22,7 @@ When adding a new prompt:
 - **Use Frontmatter**: Include all required metadata in the frontmatter.
 - **Structure the Content**: Follow the established format: context, prompt, example, and tips.
 - **Link in README**: Update the nearest `README.md` to include a link and description of the new prompt.
+- **Update root README**: If a new domain or sub-domain is created, update the root `README.md` to reflect this addition.
 
 ---
 
