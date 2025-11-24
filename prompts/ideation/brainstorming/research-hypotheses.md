@@ -1,7 +1,7 @@
 ---
 title: Research Hypothesis Generator
 category: ideation
-subcategory: hypothesis-testing
+subcategory: brainstorming
 description: Turn customer data or internal observations into structured, testable hypotheses for MVP experiments.
 llm_tools:
   - ChatGPT
