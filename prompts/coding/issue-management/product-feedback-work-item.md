@@ -31,7 +31,7 @@ Your response must include the following sections:
 - **Workaround**: Document existing or proposed stopgap mitigations, noting limitations or support costs.
 
 Guidelines:
-- Pull only from the supplied context-do not invent facts.
+- Pull only from the supplied context; do not invent facts.
 - Include both qualitative insight and any quantitative indicators that reinforce urgency.
 - Make the ask solution-oriented (e.g., "Expose billing usage API" instead of "Billing is broken").
 - If context lacks data for a section, insert a short TODO note so the requestor can fill it.
