@@ -14,7 +14,7 @@ tags:
   - content-writing
   - introductions
   - hooks
-  - audience-painpoints
+  - audience-pain-points
 ---
 
 # Engaging Introduction
