@@ -41,6 +41,7 @@ Always cite relevant sources from my calendar, emails, Teams, and files to suppo
 ---
 
 Here's an example:
+
 <EXAMPLE>
 **What went well this week?**
 
@@ -71,6 +72,7 @@ Important interactions to consider as context for this week:
 
 ## Tips
 
+- Run this prompt at the end of each week to maintain a consistent record of your impact and challenges.
 - Pair this journal with the [Performance Review Impact Assessment](../../career/development/performance-review-impact-assessment.md) prompt to fast-track quarterly or annual submissions.
 - If your business audience expects executive-ready bullets, keep each citation visible so they can drill into the source material without exporting additional notes.
 - Maintain a running "Important interactions" list during the week; paste it into the prompt so Copilot knows which calls, escalations, or files cannot be missed.
