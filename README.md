@@ -8,7 +8,7 @@ A library of copy-ready prompts for ChatGPT, Copilot, and similar tools. Every p
 
 ## Find a Prompt
 
-All prompts live under [`prompts/`](prompts/README.md). The folder categories are intentionally opinionated to keep things organized:
+All prompts live under [`prompts/`](prompts/README.md). The folder categories are intentionally opinionated to keep things organized, and easy to collaborate in:
 
 ### Agentic Workflows
 
